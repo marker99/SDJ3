@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SDJ3.iml" filepath="$PROJECT_DIR$/SDJ3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleGSON/SimpleGSON.iml" filepath="$PROJECT_DIR$/SimpleGSON/SimpleGSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_SimpleGSON/Simple_GSON/Simple_GSON.iml" filepath="$PROJECT_DIR$/4_SimpleGSON/Simple_GSON/Simple_GSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smallexample/Smallexample.iml" filepath="$PROJECT_DIR$/Smallexample/Smallexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_VerySimpleBank/VerySimpleBank/VerySimpleBank.iml" filepath="$PROJECT_DIR$/2_VerySimpleBank/VerySimpleBank/VerySimpleBank.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_PeerToPeer/p2pmsg/p2pmsg.iml" filepath="$PROJECT_DIR$/1_PeerToPeer/p2pmsg/p2pmsg.iml" />
     </modules>
   </component>
