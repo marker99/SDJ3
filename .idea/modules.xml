@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/6_WebServices_REST/Friends/Friends.iml" filepath="$PROJECT_DIR$/6_WebServices_REST/Friends/Friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_RabbitMQ/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/10_RabbitMQ/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_RabbitMQ/RabbitMQExchange/RabbitMQExchange.iml" filepath="$PROJECT_DIR$/10_RabbitMQ/RabbitMQExchange/RabbitMQExchange.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDJ3.iml" filepath="$PROJECT_DIR$/SDJ3.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleGSON/SimpleGSON.iml" filepath="$PROJECT_DIR$/SimpleGSON/SimpleGSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_SimpleGSON/Simple_GSON/Simple_GSON.iml" filepath="$PROJECT_DIR$/4_SimpleGSON/Simple_GSON/Simple_GSON.iml" />
